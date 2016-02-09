@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:　機械学習牧場
+title: 機械学習牧場
 email: jyori112@gmail.com
-description: > ディープラーニングを中心に機械学習について解説したり, 研究を発表したりしています.
+description: ディープラーニングを中心に機械学習を解説したり、研究発表をしています
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mlfarm.github.io" # the base hostname & protocol for your site
-twitter_username: mlfarm
+twitter_username: ml_farm
 github_username:  mlfarm
 
 # Build settings
